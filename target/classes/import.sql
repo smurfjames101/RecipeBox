@@ -1,0 +1,7 @@
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Jordan Hignett","Welsh Breakfast","Three Large Potatoes, Two eggs, packet of bacon.")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("James Ingram","Mac 'n' Cheese","500g Macaroni,200g Cheese")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Josh Gomersall","Quiche Loraine"," Three eggs, 200g Cheese, One Onion")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Ryan Lang","Haggis","Oats and Entrails")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Jordan Harrison","","")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Matt Hunt","Mexican Steak","sirracha ,steak, baste in tequila")
+INSERT INTO RECIPE VALUES (owner, recipeName, desc) VALUES ("Naomi Stanley","Crazy Pot Pie","Potaotes, carrots, haribos, sugar, mince")
