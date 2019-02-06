@@ -1,8 +1,14 @@
 com\qa\persitence\repository\RecipeRepository.class
-com\qa\rest\RecipeEndpoint.class
+com\qa\rest\OwnerEndpoint.class
 com\qa\business\service\RecipeServiceImpl.class
-com\qa\util\JSONUtil.class
 com\qa\business\service\RecipeService.class
-com\qa\persitence\domain\Recipe.class
+com\qa\persitence\repository\OwnerDBRepository.class
 com\qa\persitence\repository\RecipeDBRepository.class
+com\qa\business\service\OwnerServiceImpl.class
+com\qa\persitence\domain\Owner.class
+com\qa\business\service\OwnerService.class
+com\qa\rest\RecipeEndpoint.class
+com\qa\persitence\repository\OwnerRepository.class
+com\qa\util\JSONUtil.class
+com\qa\persitence\domain\Recipe.class
 com\qa\rest\JAXActivator.class
